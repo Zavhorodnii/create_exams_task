@@ -1,0 +1,32 @@
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csprojAssemblyReference.cache
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csproj.ResolveComReference.cache
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.Form1.resources
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.Properties.Resources.resources
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csproj.GenerateResource.cache
+D:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.exe.config
+D:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.exe
+D:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.pdb
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.exe
+D:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.pdb
+J:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.exe.config
+J:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.exe
+J:\Programming\Exam_New\Exams_2\bin\Debug\Exams_2.pdb
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csprojResolveAssemblyReference.cache
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csproj.ResolveComReference.cache
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.Form1.resources
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.Properties.Resources.resources
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csproj.GenerateResource.Cache
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.csproj.CoreCompileInputs.cache
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.exe
+J:\Programming\Exam_New\Exams_2\obj\Debug\Exams_2.pdb
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\bin\Debug\Exams_2.exe.config
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\bin\Debug\Exams_2.exe
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\bin\Debug\Exams_2.pdb
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.csprojResolveAssemblyReference.cache
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.csproj.ResolveComReference.cache
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.Form1.resources
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.Properties.Resources.resources
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.csproj.GenerateResource.Cache
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.csproj.CoreCompileInputs.cache
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.exe
+J:\4 курс\Diplom\Завгородній\Авт_право_3\Прога\Exams_2\obj\Debug\Exams_2.pdb
